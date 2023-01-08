@@ -1,0 +1,10 @@
+#titulo { text-align: center;
+}
+#all{
+    
+    background-color: rgb(100, 133, 231);
+    padding: 20px;
+}
+h1,h3{
+    display: inline;
+}

@@ -1,0 +1,42 @@
+
+.row{
+    padding: 10px;
+    
+    
+}
+div{
+    background-color: rgba(0, 37, 146, 0.74);
+    text-align: center;
+}
+#nombre{
+    font-weight: bold;
+    margin-top: 10%;
+}
+
+@media (min-width: 576px){
+    #fotodeperfil{
+    position: absolute;
+    width: 14%;
+    height: 24%;
+    border-radius: 100%;
+    box-shadow: 1px 1px 1px grey;
+    left: 3%;
+    top: 63%;
+
+   
+    
+    }
+}
+@media (max-width: 575px){
+    #fotodeperfil{
+    position: absolute;
+    width: 35%;
+    height: 15%;
+    border-radius: 100%;
+    box-shadow: 1px 1px 1px grey;
+    left: 33%;
+    top: 530px
+    }
+  
+}
+
